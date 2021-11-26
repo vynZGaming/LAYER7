@@ -8,14 +8,14 @@
   <img src="https://raw.githubusercontent.com/tanjilk/overload/main/img/imgshow.png">
 </p>
 
-# INSTALLATION
+# ⛔ INSTALLATION
 
 
 <h2>Windows</h2> <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width="50" height="50">  
 
-  - Install Python 3.8 [aqui](https://www.python.org/downloads/release/python-38)
+  - Install Python 3.8 [Link](https://www.python.org/downloads/release/python-38)
   - Buka dan klik: `add python to PATH`
-  - Download script <a href="https://github.com/7zx/overload/archive/refs/heads/main.zip" target="blank">aqui</a>
+  - Download script <a href="https://github.com/7zx/overload/archive/refs/heads/main.zip" target="blank">Link</a>
   - Install Package: `pip install -r requirements.txt`  
 
 
