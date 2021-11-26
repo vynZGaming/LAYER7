@@ -5,7 +5,7 @@
 
 # :computer: Tampilan
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tanjilk/LAYER7/main/img/images-tampilan.png">
+  <img src="https://i.postimg.cc/hPsxVVW9/images-tampilan.jpg">
 </p>
 
 # ⛔ INSTALLATION
