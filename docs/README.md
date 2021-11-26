@@ -8,7 +8,7 @@
   <img src="https://i.postimg.cc/hPsxVVW9/images-tampilan.jpg">
 </p>
 
-# ⛔ INSTALLATION
+# ⛔ INSTALL
 
 
 <h2>Windows</h2> <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width="50" height="50">  
